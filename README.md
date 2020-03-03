@@ -1,3 +1,3 @@
 # PIXLang
 
-A description of this package.
+Commands for [PixelKit](https://github.com/hexagons/pixelkit)
